@@ -1,0 +1,71 @@
+.image-hover {
+    width: 370px; 
+    height: 520px; 
+    background-image: url('images/home1.jpg'); 
+    background-size: cover; 
+    transition: background-image 0.5s ease-in-out; 
+}
+
+.image-hover:hover {
+    background-image: url('images/home2.jpg'); 
+}
+
+.image-logo-hover {
+    width: 150px; 
+    height: 40px; 
+    background-image: url('images/logo.png'); 
+    background-size: cover; 
+    transition: background-image 0.5s ease-in-out; 
+}
+
+.image-logo-hover:hover {
+    background-image: url('images/logo2.png'); 
+}
+
+.image-tw-hover {
+    width: 25px; 
+    height: 25px; 
+    background-image: url('images/twitter2.png'); 
+    background-size: cover; 
+    transition: background-image 0.5s ease-in-out; 
+}
+
+.image-tw-hover:hover {
+    background-image: url('images/twitter.png'); 
+}
+
+.image-ig-hover {
+    width: 25px; 
+    height: 25px; 
+    background-image: url('images/instagram2.png'); 
+    background-size: cover; 
+    transition: background-image 0.5s ease-in-out; 
+}
+
+.image-ig-hover:hover {
+    background-image: url('images/instagram.png'); 
+}
+
+.image-tt-hover {
+    width: 25px; 
+    height: 25px; 
+    background-image: url('images/tiktok2.png'); 
+    background-size: cover; 
+    transition: background-image 0.5s ease-in-out; 
+}
+
+.image-tt-hover:hover {
+    background-image: url('images/tiktok.png'); 
+}
+
+.image-yt-hover {
+    width: 25px; 
+    height: 25px; 
+    background-image: url('images/youtube2.png'); 
+    background-size: cover; 
+    transition: background-image 0.5s ease-in-out; 
+}
+
+.image-yt-hover:hover {
+    background-image: url('images/youtube.png'); 
+}

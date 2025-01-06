@@ -1,0 +1,43 @@
+table {
+  border-collapse: collapse;
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px
+}
+
+body{
+font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+ color: #FFFFFF;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+a:hover {
+  color: #31e8a0;
+}
+
+.button {
+  background: linear-gradient(#6132A8, #296396);
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: white;
+} 
+
+.profile-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+}
